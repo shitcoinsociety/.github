@@ -1,10 +1,8 @@
 # Welcome to Shitcoin Swap
 
-We are building the world's largest open-source trading platform.
+We are building the world's largest open-source crypto MLM. Our main product is the $RST, the Revenue Share Token, which you can purchase and trade on the platform itself.
 
 Our focus lies on simple and easy extendability, making it easy to add support for existing and upcoming networks.
-
-Shitcoin Swap is powered by our Revenue Share Token ($RST), which can be bought and traded on the platform itself.
 
 ## Repositories
 
