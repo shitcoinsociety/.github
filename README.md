@@ -1,4 +1,4 @@
-<img width="1000" height="1000" alt="sslogotransp" src="https://github.com/user-attachments/assets/b08366a3-0ac0-4d21-9c49-90180baa8685" />
+<img width="120" height="120" alt="Logo" src="https://github.com/user-attachments/assets/b08366a3-0ac0-4d21-9c49-90180baa8685" />
 
 # Welcome to Shitcoin Swap
 
