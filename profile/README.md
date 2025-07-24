@@ -1,7 +1,5 @@
-# Welcome to Shitcoin Swap
+# Welcome to the Shitcoin Society
 
-We are building the world's largest open-source crypto MLM platform. Our main product is the $RST, the Revenue Share Token, which you can purchase and trade on the platform itself.
+We are the founders and creaters of [Shitcoin Swap](https://github.com/shitcoinsociety/shitcoinswap), the world's largest open-source Bitcoin MLM platform. Earn passive income simply by holding our Revenue Share Token ($RST), available for presale from select members of the Shitcoin Society.
 
-## Repositories
-
-- [platform](https://github.com/shitcoinswap/platform) - The main Shitcoin Swap web app, powered by Ruby on Rails and Svelte
+We don't have a corporate website, so this GitHub page has to suffice for now. For support and other inquiries, feel free to reach out at support@shitcoinsociety.com
