@@ -8,6 +8,10 @@ We don't have a corporate website, so this GitHub page has to suffice for now. F
 
 And don't forget to follow us on our socials and on [YouTube](https://youtube.com/@shitcoinsociety) for the latest news from shitcoin world.
 
+### Repos
+
+- [Shitcoin Swap](https://github.com/shitcoinsociety/shitcoinswap) - The Shitcoin Swap web app, powered by Ruby on Rails and Svelte
+
 ## You got one of these?
 
 <img src="https://github.com/user-attachments/assets/2d148a06-cecb-4bb8-9fcf-984036535ba1" width="400">
