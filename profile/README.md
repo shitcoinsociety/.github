@@ -6,7 +6,7 @@ We are developing [Shitcoin Swap](https://github.com/shitcoinsociety/shitcoinswa
 
 We don't have a corporate website, so this GitHub page has to suffice for now. For support and other inquiries, feel free to reach out at support@shitcoinswap.com
 
-And don't forget to follow us on our socials and on [YouTube](https://youtube.com/@shitcoinsociety) for the latest news from shitcoin world.
+And don't forget to follow us on our socials and on [YouTube](https://youtube.com/@shitcoinsociety) for the latest news from the Shitcoin Society.
 
 ### Repos
 
