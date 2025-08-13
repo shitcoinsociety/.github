@@ -10,7 +10,7 @@ And don't forget to follow us on our socials and on [YouTube](https://youtube.co
 
 ### Repos
 
-- [Shitcoin Swap](https://github.com/shitcoinsociety/platform) - The Shitcoin Society platform, powered by Ruby on Rails and Svelte
+- [Platform](https://github.com/shitcoinsociety/platform) - The Shitcoin Society platform, powered by Ruby on Rails and Svelte
 
 ## You got one of these?
 
