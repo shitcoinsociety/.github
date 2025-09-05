@@ -2,9 +2,9 @@
 
 # Welcome to the Shitcoin Society
 
-The Shitcoin Society is the world's largest extendable crypto MLM platform, complete with a built-in trading engine.
+Our goal is to build the world's largest open-source crypto MLM platform, complete with a built-in trading engine.
 
-Earn dividends simply by holding our Revenue Share Token ($RST), available for pre-sale from [select members](https://github.com/buhrmi) of the Shitcoin Society.
+Development happens live on [YouTube](https://www.youtube.com/@BuhrmiProggt/streams) and on [Twitch](http://twitch.tv/@buhrmiproggt), where you can follow and comment on the progress.
 
 ## Do you have one of these?
 
