@@ -2,7 +2,7 @@
 
 # Welcome to the Shitcoin Society
 
-Our goal is to build the world's largest open-source crypto MLM platform, complete with a built-in trading engine.
+We're building the world's largest open-source crypto MLM platform, complete with a built-in trading engine.
 
 You can follow and comment on its development live on [YouTube](https://www.youtube.com/@BuhrmiProggt/streams) and on [Twitch](http://twitch.tv/@buhrmiproggt).
 
