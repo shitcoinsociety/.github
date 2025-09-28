@@ -2,7 +2,9 @@
 
 # Welcome to the Shitcoin Society
 
-We're building the world's largest [open-source crypto MLM platform](https://github.com/shitcoinsociety/platform), complete with a built-in trading engine. You can follow its development on [Twitch](https://twitch.tv/buhrmidevelops) and [YouTube](https://youtube.com/@buhrmidevelops/streams).
+We're trying to build the world's largest open-source crypto MLM platform, complete with a built-in trading engine. You can follow its development on [Twitch](https://twitch.tv/buhrmidevelops) and [YouTube](https://youtube.com/@buhrmidevelops/streams).
+
+If you're looking for the code from the streams, you can find that here: https://github.com/shitcoinsociety/platform
 
 ## Did you find one of these?
 
