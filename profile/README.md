@@ -2,4 +2,4 @@
 
 # Shitcoin Society
 
-The Shitcoin Society is the open-source organization behind the modular crypto trading engine [Shitcoin Swap](https://github.com/shitcoinsociety/shitcoinswap).
+The Shitcoin Society is the organization behind the open-source trading engine [Shitcoin Swap](https://github.com/shitcoinsociety/shitcoinswap).
