@@ -2,7 +2,7 @@
 
 # Welcome to the Shitcoin Society
 
-We create open-source tools to catapult your next project into the stratosphere. Check the repositories below for more information.
+Creating open-source tools that will catapult you into the stratosphere. Check the repositories below for more information.
 
 ## Repositories
 
