@@ -2,7 +2,7 @@
 
 # Welcome to the Shitcoin Society
 
-Creating open-source tools that will catapult you into the stratosphere. Check the repositories below for more information.
+The Shitcoin Society is an initiative to develop a modular, open-source trading engine. You can read more about my rationale why this project needs to exists [here](https://dev.to/buhrmi/shitcoin-society-the-quest-for-an-open-source-trading-engine-6ho).
 
 ## Repositories
 
