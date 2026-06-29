@@ -7,4 +7,4 @@ All your questions why this exists are answered in this [blog post](https://dev.
 ## Repositories
 
 - [Shitcoin Swap](https://github.com/shitcoinsociety/shitcoinswap)<br>
-  Our official open-source trading and investment engine.
+  Our official Bitcoin-denominated open-source trading and investment engine.
