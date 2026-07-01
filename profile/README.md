@@ -2,9 +2,7 @@
 
 # Welcome to the Shitcoin Society
 
-The Shitcoin Society is the investment and financial advisory group founded and led by [Stefan Buhrmester](https://github.com/buhrmi). For more information and rationale on the project, check out our introductory [blog post](https://dev.to/buhrmi/shitcoin-society-the-quest-for-an-open-source-trading-engine-6ho).
-
-Partnership proposals: [partner@shitcoinsociety.com](mailto:partner@shitcoinsociety.com)
+The Shitcoin Society is the investment and financial advisory group founded by [Stefan Buhrmester](https://github.com/buhrmi). For more information and rationale on the project, check out our introductory [blog post](https://dev.to/buhrmi/shitcoin-society-the-quest-for-an-open-source-trading-engine-6ho).
 
 ## Repositories
 
