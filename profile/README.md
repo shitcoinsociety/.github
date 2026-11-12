@@ -1,5 +1,7 @@
-<img width="100%" alt="ss" src="https://github.com/user-attachments/assets/18fd2a78-fbce-44e8-8645-2fe0cde0c123" />
+<img width="100%" alt="tothemoon" src="https://github.com/user-attachments/assets/d58e2f23-4fb9-429c-88ca-eefae719a399" />
 
 # Welcome to the Shitcoin Society
 
-Coming soon: The world's first blockchain-native MLM system for modern degenerates
+The world's first blockchain-native MLM system for modern degenerates
+
+Coming soon
