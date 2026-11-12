@@ -2,4 +2,4 @@
 
 # Welcome to the Shitcoin Society
 
-We are building the world's first blockchain-native MLM system
+Coming soon: The world's first blockchain-native MLM system for modern degenerates
