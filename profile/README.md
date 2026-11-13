@@ -2,4 +2,4 @@
 
 # Welcome to the Shitcoin Society
 
-Open-source, crypto-native MLM system for modern degenerates
+An open-source, crypto-native MLM platform for modern degenerates
