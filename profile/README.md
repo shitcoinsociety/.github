@@ -3,3 +3,7 @@
 # Welcome to the Shitcoin Society
 
 An open-source, crypto-native MLM platform for modern degenerates
+
+## Repositories
+
+- **[app](https://github.com/shitcoinsociety/app)** - The Rails app running www.shitcoinsociety.com
