@@ -2,7 +2,7 @@
 
 # Welcome to the Shitcoin Society
 
-The crypto-native open source investment platform for modern degenerates
+Crypto-native, open source investment platform for modern degenerates. We have coconuts and drum n bass.
 
 ## Repositories
 
